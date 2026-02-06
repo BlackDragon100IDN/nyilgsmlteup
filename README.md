@@ -103,5 +103,11 @@ Hasil:
 🔥 Dibuat untuk setup cepat, simpel, dan stabil.
 
 Jika ingin fitur lanjutan seperti auto monitoring, watchdog modem, atau failover agresif — silakan modifikasi atau fork repo ini.
-👤 Author
-Storm81
+
+
+---
+
+## 👤 Author
+
+**Storm81**
+
