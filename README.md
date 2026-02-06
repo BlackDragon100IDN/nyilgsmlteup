@@ -1,6 +1,8 @@
 HASIL AKHIR
 
 Install sekali jalan
+curl -fsSL https://raw.githubusercontent.com/BlackDragon100IDN/nyilgsmlteup/main/install.sh | sudo bash
+
 
 Tidak tergantung nama WiFi
 
